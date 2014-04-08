@@ -1,1 +1,1 @@
-au! BufRead,BufNewFile *.md            setfiletype magnolia
+au! BufRead,BufNewFile *.mg            set filetype=magnolia
